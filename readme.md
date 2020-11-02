@@ -8,19 +8,19 @@ A website that functions to randomly generate a password from a given length and
 
 To begin press the "Generate Password" button to start the prompts.
 
-![start](PasswordGenerator\images\startimage.png?raw=true "Start")
+![start](https://github.com/luvwitch/PasswordGenerator/blob/main/images/startimage.png?raw=true "Start")
 
 Enter the length of your desired password.
 
-![length](PasswordGenerator\images\length.png?raw=true "Length")
+![length](https://github.com/luvwitch/PasswordGenerator/blob/main/images/length.png "Length")
 
 Select the character arrays you'd like to use by pressing "ok" to select or "cancel" to decline.
 
-![characterselection](PasswordGenerator\images\characterselection.png?raw=true "Character Selection")
+![characterselection](https://github.com/luvwitch/PasswordGenerator/blob/main/images/characterselection.png "Character Selection")
 
 Once all prompts have been answered properly, your new password will generate and appear in the box.
 
-![password](PasswordGenerator\images\password.png?raw=true "Password")
+![password](https://github.com/luvwitch/PasswordGenerator/blob/main/images/password.png "Password")
 
 ## Tests
 
